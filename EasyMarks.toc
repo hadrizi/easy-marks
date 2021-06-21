@@ -1,0 +1,7 @@
+## Interface: 20501
+## Title: EasyMarks
+## Author: Hadron Collider
+## Version: 0.0.1
+## SavedVariablesPerCharacter: EMCharConfig
+
+main.lua
