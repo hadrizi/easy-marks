@@ -1,4 +1,4 @@
-## Interface: 20501
+## Interface: 30400
 ## Title: EasyMarks
 ## Author: Hadron Collider
 ## Version: 0.0.1
